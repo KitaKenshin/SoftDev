@@ -14,6 +14,8 @@ After verifying your credentials, we will pay a signin bonus of $100.
 
 ## Project: Looking for Software Developers
 We are seeking individuals to participate in the development of a cloud-based web platform.
+Our plan involves creating a cloud-based service that incorporates artificial intelligence (AI). 
+This service can be described as a combination of social networking service (SNS), e-commerce, and AI technologies. If you are interested in working on this project, it is important for you to possess skills in either React Native, Electron, natural language processing (NLP), Amazon Web Services (AWS), or MongoDB.
 
 ## Compensation
 The base hourly rate is up to $35/hr. Payments are made immediately for each task. You can choose from various payment methods. We support USDT, Airtm, Payoneer, and Paypal.
