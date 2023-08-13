@@ -1,7 +1,8 @@
 # Job Description
 
 ## Contact Information
-Please send your resume and LinkedIn URL to codeartist0725@gmail.com. We kindly ask you not to contact us through the Fiverr platform.
+Please send your resume and LinkedIn URL to codeartist0725@gmail.com. We kindly ask you contact us only to Gmail or Skype.
+Skype ID: live:.cid.7abbd5dae4dbe3a2
 
 ## Eligible Countries
 We are accepting applications from the following countries: Argentina, Australia, Canada, Great Britain, India, New Zealand, Mexico, and the United States.
