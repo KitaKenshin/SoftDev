@@ -6,7 +6,7 @@
 
 **Referral Bonus:** Earn $50 for every friend you refer. Payments will be made directly via USDT, Payoneer, PayPal, or Airtm.
 
-## Project: Computer Share (Long-Term Support)
+## Project: Computer Share (Long-Term Support) : Not VPS, Not VPN
 
 We are on the lookout for individuals who can lend their computers for global website testing. This can be a profitable opportunity if you have 2 or more computers that you can share with us.
 
